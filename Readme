@@ -1,10 +1,10 @@
-## Readme
+<h2>Readme</h2>
 
 <p>Este es el documento de diseño central y diario de registro para el reto de ZIENideas realizado en el campus 42 de Málaga.</p>
 <p>La idea central es realiar un cuentacuentos bajo unos parámetros determinados. En este documento se narrará el flujo de trabajo realizado para el producto.</p>
 
 
-## Primeros pasos
+<h2>Primeros pasos</h2>
 <p>Como se nos ha sugerido lo primero es montar un esquema de trabajo con los tiempos necesarios, esto es lo que se nos recomienda:</p>
 <ul>
 <li>Fase 1: Entrada de Datos<br>
