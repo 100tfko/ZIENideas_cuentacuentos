@@ -1,8 +1,8 @@
-# Readme
+# Readme --> lcuevas-  <--> Laureano Cuevas
 <p>
 Este es el documento de diseño central y diario de registro para el reto de ZIENideas realizado en el campus 42 de Málaga.
 <p>
-Como identificativo, este proyecto ha sido redactado por **Laureano Cuevas (lcuevas-) en 42**.  
+Como identificativo, este proyecto ha sido redactado por LAUREANO CUEVAS (lcuevas- en 42).  
 Aunque se ha trabajado en concierto con otros compañeros, la entrega se ha realizado de forma dividida para su revisión.
 
 <p>
