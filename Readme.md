@@ -1,13 +1,14 @@
 # Readme
 <p>
 Este es el documento de diseño central y diario de registro para el reto de ZIENideas realizado en el campus 42 de Málaga.
-</p>
+<p>
+Como identificativo, este proyecto ha sido redactado por **Laureano Cuevas (lcuevas-) en 42**.  
+Aunque se ha trabajado en concierto con otros compañeros, la entrega se ha realizado de forma dividida para su revisión.
+
 <p>
 La idea central es realiar un cuentacuentos bajo unos parámetros determinados. En este documento se narrará el flujo de trabajo realizado para el producto.
 </p>
-<p>
-Como identificativo este proyecto ha sido redactado por Laureano Cuevas (lcuevas- en 42). Aunque se ha trabajado en concierto con otros compañeros la entrega se ha realizado de forma divida para su revisión
-</p>
+
 
 
 <h2>Primeros pasos</h2>
