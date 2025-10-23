@@ -1,1 +1,29 @@
-EMpesando
+## Readme
+
+<p>Este es el documento de diseño central y diario de registro para el reto de ZIENideas realizado en el campus 42 de Málaga.</p>
+<p>La idea central es realiar un cuentacuentos bajo unos parámetros determinados. En este documento se narrará el flujo de trabajo realizado para el producto.</p>
+
+
+## Primeros pasos
+<p>Como se nos ha sugerido lo primero es montar un esquema de trabajo con los tiempos necesarios, esto es lo que se nos recomienda:</p>
+<ul>
+<li>Fase 1: Entrada de Datos<Br>
+Recibir el input del relato de forma simple (archivo, línea de comandos o formulario). 15–20 min</li>
+<li>Fase 2: Validación<Br>
+Verificar que el texto cumple con los criterios: longitud de ~500 palabras (±10%), estructura en 3 partes (presentación, nudo, desenlace) y al menos 3 personajes distintos. 30–40 min</li>
+<li>Fase 3: Iteración y Trazas<Br>
+Repetir el proceso de generación o ajuste hasta cumplir los criterios de validación. Se deben dejar logs o trazas que muestren las iteraciones. 40–50 min</li>
+<li>Fase 4: Exportación a PDF<Br>
+Exportar el relato final en un archivo PDF (sin necesidad de portada en esta fase). 15–20 min (Opcional)</li>
+<li>Fase 5: Portada Automática<Br>
+Generar una portada simple relacionada con el tema del relato y añadirla al PDF final. 15–20 min (Opcional)</li>
+  </ul>
+
+<p>Siguinedo esta lista de trabajo inicial empezaremos el flujo de trabajo que se nos recomienda igualmente:<Br>
+entrada > generación > validación > iteración > exportación > portada.</p>
+
+<p>El lenguaje base sera python por familiaridad con el mismo y se procederá a ralizar durante la siguiente fase del trabajo un programa capaz de recibir el imput necesario.</p>
+
+
+
+
